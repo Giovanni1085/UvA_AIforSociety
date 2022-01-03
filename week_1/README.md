@@ -14,6 +14,8 @@
 * Jo and Gebru. 2020. [Lessons from archives](https://dl.acm.org/doi/abs/10.1145/3351095.3372829) 
 * Gebru et al. 2018. [Datasheets for datasets](https://arxiv.org/abs/1803.09010) 
 * Liu et al. 2018. [Delayed impact](https://arxiv.org/abs/1803.04383)
+* Jacobs and Wallach. 2021. [Measurement and Fairness](https://dl.acm.org/doi/10.1145/3442188.3445901)
+* Friedler et al. 2021. [The (Im)possibility of Fairness](https://cacm.acm.org/magazines/2021/4/251365-the-impossibility-of-fairness) 
 
 ## Other resources
 
