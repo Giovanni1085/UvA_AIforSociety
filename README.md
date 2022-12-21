@@ -1,4 +1,4 @@
-# UvA AI for Society 2022
+# UvA AI for Society
 
 This repository contains the code and assignmennts for the course: *AI for Society* 2022 edition, taught at the University of Amsterdam.
 
