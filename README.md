@@ -1,15 +1,16 @@
 # UvA AI for Society
 
-This repository contains the code and assignmennts for the course: *AI for Society* 2022 edition, taught at the University of Amsterdam.
+This repository contains the code and assignmennts for the course: *AI for Society*. 
+The latest edition was taught at the University of Amsterdam during the academic year 2022/23.
 
 ## Assignments
 
 | Week         | Topic           | Assignment  |
 | ------------- |-------------| -----:|
 | 1      | Fairness and Bias | <a href='week_1/assignment/Machine Bias.ipynb'>assignment</a> |
-| 2      | eXplainable AI | <a href='week_2/assignment/Civility in Communication.ipynb'>assignment</a> |
-| 3      | AI to Study Society and Culture | <a href='week_3/assignment/'>assignment</a> |
-| 4      | The Economics of AI | Individual essay (see Canvas) |
+| 2      | AI to Study Society and Culture | *TBD* |
+| 3      | eXplainable AI | <a href='week_2/assignment/Civility in Communication.ipynb'>assignment</a> |
+| 4      | The Economics of AI | Individual essay (see guidelines on Canvas) |
 
 ## License
 
@@ -23,7 +24,7 @@ You will need an **editor** to write code and edit files. If you don't have a pr
 
 ### Working with Jupyter Notebooks
 
-* Option 1 (recommended): Download [the repository contents](https://github.com/Giovanni1085/UvA_AIforSociety_2022) and use [Spyder](https://www.spyder-ide.org/) or the Jyputer Notebook.
+* Option 1 (recommended): Download [the repository contents](https://github.com/Giovanni1085/UvA_AIforSociety) and use [Spyder](https://www.spyder-ide.org) or the Jyputer Notebook.
 
 * Option 2 (advanced): work directly with git and conda. See this [guide to setup your environment](https://github.com/Giovanni1085/UvA_CDH_2020/blob/master/setup.md) for more info.
 
