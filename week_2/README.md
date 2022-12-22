@@ -1,4 +1,4 @@
-# Week 3: AI to Study Society and Culture
+# Week 2: AI to Study Society and Culture
 
 ## Main references
 
