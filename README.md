@@ -8,7 +8,7 @@ The latest edition was taught at the University of Amsterdam during the academic
 | Week         | Topic           | Assignment  |
 | ------------- |-------------| -----:|
 | 1      | Fairness and Bias | <a href='week_1/assignment/Machine Bias.ipynb'>assignment</a> |
-| 2      | AI to Study Society and Culture | *TBD* |
+| 2      | AI to Study Society and Culture | <a href='week_2/assignment/Charting the debate on digital economy.ipynb'>assignment</a> |
 | 3      | eXplainable AI | <a href='week_3/assignment/Civility in Communication.ipynb'>assignment</a> |
 | 4      | The Economics of AI | Individual essay (see guidelines on Canvas) |
 
